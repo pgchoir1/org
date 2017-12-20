@@ -2202,10 +2202,20 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qDvQ3gPIcA {
-  background: linear-gradient(45deg, #7fd9fc, #6576aa);
+  background-image: url("../../../assets/images/2wo-2000x2024.jpg");
 }
 .cid-qDvQ3gPIcA H1 {
   color: #ff3366;
+}
+.cid-qDvQ3gPIcA .mbr-text,
+.cid-qDvQ3gPIcA .mbr-section-btn {
+  text-align: center;
+}
+.cid-qEle7U1h8O {
+  background-color: #ff3366;
+}
+.cid-qEle7U1h8O H1 {
+  color: #f7ed4a;
 }
 .cid-qDvQwX1Gg5 {
   padding-top: 45px;
